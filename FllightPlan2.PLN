@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LZIB to LZTT</Title>
+        <FPType>IFR</FPType>
+        <CruisingAlt>9000</CruisingAlt>
+        <DepartureID>LZIB</DepartureID>
+        <DepartureLLA>N48° 9' 27.37",E17° 13' 55.41",+000436.00</DepartureLLA>
+        <DestinationID>LZTT</DestinationID>
+        <DestinationLLA>N49° 4' 22.03",E20° 15' 29.62",+002356.00</DestinationLLA>
+        <Descr>LZIB, LZTT</Descr>
+        <DeparturePosition>31</DeparturePosition>
+        <DepartureName>M.R. Stefanik</DepartureName>
+        <DestinationName>Tatry</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>60905</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LZIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 9' 27.37",E17° 13' 55.41",+000436.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LZIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="JAN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 10' 43.17",E17° 32' 40.75",+000423.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>JAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NIT">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 17' 25.57",E18° 3' 2.30",+000770.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>NIT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLC">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 27' 11.68",E19° 6' 57.07",+001670.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>SLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="BAVAR">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N48° 56' 40.64",E20° 6' 9.38",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>BAVAR</ICAOIdent>
+                <ICAOAirport>LZTT</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LZTT">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N49° 4' 22.03",E20° 15' 29.62",+002356.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LZTT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>

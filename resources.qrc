@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/icons">
+        <file>images/tower.png</file>
+        <file>images/inbound.png</file>
+        <file>images/outbound.png</file>
+        <file>images/button_1.png</file>
+        <file>images/button_2.png</file>
+        <file>images/title.png</file>
+        <file>images/title_2.png</file>
+        <file>images/Wallpaper.png</file>
+        <file>images/metar-icon.png</file>
+        <file>images/posts-icon.png</file>
+        <file>images/Wallpaper1.png</file>
+        <file>images/about-icon.png</file>
+        <file>images/button3+.png</file>
+        <file>images/button4+.png</file>
+        <file>images/button5+.png</file>
+        <file>images/button6+.png</file>
+        <file>images/button7+.png</file>
+        <file>images/button8+.png</file>
+        <file>images/button9+.png</file>
+        <file>images/button10+.png</file>
+        <file>images/overflight.png</file>
+        <file>images/time-icon.png</file>
+        <file>images/down_arrow.png</file>
+        <file>images/up_arrow.png</file>
+        <file>images/up_down_arrow.png</file>
+        <file>images/radar-icon.png</file>
+    </qresource>
+    <qresource prefix="/sounds">
+        <file>sound/CPDLC.wav</file>
+        <file>sound/STCA.wav</file>
+    </qresource>
+</RCC>

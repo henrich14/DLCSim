@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<SimBase.Document Type="AceXML" version="1,0">
+    <Descr>AceXML Document</Descr>
+    <FlightPlan.FlightPlan>
+        <Title>LZIB to LZKZ</Title>
+        <FPType>IFR</FPType>
+        <CruisingAlt>7000</CruisingAlt>
+        <DepartureID>LZIB</DepartureID>
+        <DepartureLLA>N48° 9' 40.02",E17° 11' 59.50",+000436.00</DepartureLLA>
+        <DestinationID>LZKZ</DestinationID>
+        <DestinationLLA>N48° 38' 59.62",E21° 14' 11.62",+000755.00</DestinationLLA>
+        <Descr>LZIB, LZKZ</Descr>
+        <DeparturePosition>4</DeparturePosition>
+        <DepartureName>M.R. Stefanik</DepartureName>
+        <DestinationName>Kosice</DestinationName>
+        <AppVersion>
+            <AppVersionMajor>10</AppVersionMajor>
+            <AppVersionBuild>60905</AppVersionBuild>
+        </AppVersion>
+        <ATCWaypoint id="LZIB">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 9' 40.02",E17° 11' 59.50",+000436.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LZIB</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="JAN">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 10' 43.17",E17° 32' 40.75",+000423.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>JAN</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="NIT">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 17' 25.57",E18° 3' 2.30",+000770.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>NIT</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="SLC">
+            <ATCWaypointType>VOR</ATCWaypointType>
+            <WorldPosition>N48° 27' 11.68",E19° 6' 57.07",+001670.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>SLC</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="KEKED">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N48° 31' 22.93",E21° 17' 29.23",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LH</ICAORegion>
+                <ICAOIdent>KEKED</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="FD01">
+            <ATCWaypointType>Intersection</ATCWaypointType>
+            <WorldPosition>N48° 33' 46.11",E21° 12' 27.58",+000000.00</WorldPosition>
+            <ICAO>
+                <ICAORegion>LZ</ICAORegion>
+                <ICAOIdent>FD01</ICAOIdent>
+                <ICAOAirport>LZKZ</ICAOAirport>
+            </ICAO>
+        </ATCWaypoint>
+        <ATCWaypoint id="LZKZ">
+            <ATCWaypointType>Airport</ATCWaypointType>
+            <WorldPosition>N48° 38' 59.62",E21° 14' 11.62",+000755.00</WorldPosition>
+            <ICAO>
+                <ICAOIdent>LZKZ</ICAOIdent>
+            </ICAO>
+        </ATCWaypoint>
+    </FlightPlan.FlightPlan>
+</SimBase.Document>
